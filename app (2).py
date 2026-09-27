@@ -43,7 +43,7 @@ STARTING_VALUE = 100_000
 QUIZ_BONUS = 10_000
 N_NEWS_ROUNDS = 8
 REVEAL_IDX = N_NEWS_ROUNDS + 1     # round 9 internally, always shown as "The Reveal"
-DEFAULT_TEAMS = ["The Bulls", "The Hedgers", "The Safe Hands",
+DEFAULT_TEAMS = ["abc", "The Hedgers", "The Safe Hands",
                   "The Contrarians", "The Analysts"]
 
 ROUND_DEFS = [
